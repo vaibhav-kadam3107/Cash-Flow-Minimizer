@@ -5,4 +5,4 @@ Implemented a system that optimizes transactional efficiency between diverse glo
 
 This system is completely menu-driven. So when you will run the C Application, it will guide you and show you the final output.
 
-![Uploading 110011598-a33f9280-7d45-11eb-9499-a2868924cefd.png…]()
+
